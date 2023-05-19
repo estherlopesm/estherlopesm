@@ -20,3 +20,5 @@ I am in constant search for learning and learning, as I am passionate about tech
 
 ### Contact me 📞
 <a href="https://www.linkedin.com/in/esther-lopes-macedo" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+![Snake animation](https://github.com/estherlopesm/estherlopesm/blob/output/github-contribuition-grid-snake.svg)
