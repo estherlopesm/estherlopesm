@@ -1,6 +1,7 @@
 My name is Esther Lopes Macedo, I am a dedicated student at Faculdade de Tecnologia de Ourinhos, currently studying Information Security. I am excited to delve into the world of Infrastructure and am committed to improving myself in the field. In addition, I have a solid foundation as an IT professional.
 
-##Tools and Technology
+##**Tools and Technology
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" widht="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" widht="40" height="40" />
 
