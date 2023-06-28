@@ -6,7 +6,7 @@ I am a dedicated student at Faculdade de Tecnologia de Ourinhos, currently study
 
 # 👩‍💻 Tools and Technology
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" widht="40" height="40" />
 <br> 
 <br>
 
